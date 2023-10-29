@@ -1,5 +1,6 @@
 # Java Crash Course (10-28-23) 
 #### By Programming Sub Organization
+[Day 1 Syllabus](https://docs.google.com/document/d/1LT9-Q6RxquKt-OihYsSJ3K5xCXis3wABxGa_k1nIWiY/edit)
 #### Summary of session 📝:
 - [Java Setup for Visual Studio Code](https://youtu.be/BB0gZFpukJU?si=r2gt4SdbOwdCRIEg)
 - [Printing in Console](HelloWorld.java)
