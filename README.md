@@ -14,3 +14,6 @@ The crash course is conducted on the following days:
 
 ### 10-29-23
 ## [If, Else If, and Switch Case Statements](10-29-23/)
+
+### 10-31-23
+## [While Loop and For Loop](10-31-23/)
