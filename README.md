@@ -17,3 +17,6 @@ The crash course is conducted on the following days:
 
 ### 10-31-23
 ## [While Loop and For Loop](10-31-23/)
+
+### 11-03-23
+## [Nested Loops](11-03-23/)
