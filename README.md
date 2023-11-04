@@ -20,3 +20,6 @@ The crash course is conducted on the following days:
 
 ### 11-03-23
 ## [Nested Loops](11-03-23/)
+
+### 11-04-23
+## [Arrays and Looping Arrays](11-04-23/)
